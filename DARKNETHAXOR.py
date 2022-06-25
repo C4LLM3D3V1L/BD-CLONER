@@ -1,4 +1,4 @@
-# #ENCODE_BY_QAISER_YT_TECH_QAISER
+#HI THIS TOOL OWNER IS DARKNETHAXOR 
 
 
 import marshal,zlib,base64
